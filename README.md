@@ -3,9 +3,7 @@
 <td width="58%" valign="middle">
 <table>
 <tr>
-<td width="150" valign="middle">
-<img src="https://avatars.githubusercontent.com/u/3940626?v=4" width="130" alt="Anil Thanki" />
-</td>
+
 <td valign="middle">
 <h1>Anil Thanki</h1>
 <h3>Senior Bioinformatician @ EMBL-EBI</h3>
