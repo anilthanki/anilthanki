@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Google Scholar snapshot for Anil Thanki</title>
+  <desc id="desc">A compact dark research profile matrix linking readers to live Google Scholar and ORCID information.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="1" stop-color="#082d38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35c9ff"/>
+      <stop offset="1" stop-color="#59e4b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="188" rx="21" fill="none" stroke="#59e4b6" stroke-opacity="0.34"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="34" y="43" fill="#59e4b6" font-size="24" font-weight="700">Google Scholar Snapshot</text>
+    <text x="1165" y="42" text-anchor="end" fill="#8fcbd5" font-size="14">Live metrics available on profile ↗</text>
+
+    <g transform="translate(28 64)">
+      <g>
+        <rect width="180" height="96" rx="14" fill="#081827" stroke="#3c7290" stroke-opacity="0.55"/>
+        <text x="16" y="29" fill="#8fcbd5" font-size="14">Scholar profile</text>
+        <text x="16" y="61" fill="#f1fbff" font-size="21" font-weight="700">Anil Thanki</text>
+        <text x="16" y="82" fill="#59e4b6" font-size="13">Open profile ↗</text>
+      </g>
+      <g transform="translate(192)">
+        <rect width="180" height="96" rx="14" fill="#081827" stroke="#3c7290" stroke-opacity="0.55"/>
+        <text x="16" y="29" fill="#8fcbd5" font-size="14">Citations</text>
+        <text x="16" y="61" fill="#f1fbff" font-size="21" font-weight="700">View live</text>
+        <text x="16" y="82" fill="#8fcbd5" font-size="13">Google Scholar</text>
+      </g>
+      <g transform="translate(384)">
+        <rect width="180" height="96" rx="14" fill="#081827" stroke="#3c7290" stroke-opacity="0.55"/>
+        <text x="16" y="29" fill="#8fcbd5" font-size="14">h-index</text>
+        <text x="16" y="61" fill="#f1fbff" font-size="21" font-weight="700">View live</text>
+        <text x="16" y="82" fill="#8fcbd5" font-size="13">Google Scholar</text>
+      </g>
+      <g transform="translate(576)">
+        <rect width="180" height="96" rx="14" fill="#081827" stroke="#3c7290" stroke-opacity="0.55"/>
+        <text x="16" y="29" fill="#8fcbd5" font-size="14">i10-index</text>
+        <text x="16" y="61" fill="#f1fbff" font-size="21" font-weight="700">View live</text>
+        <text x="16" y="82" fill="#8fcbd5" font-size="13">Google Scholar</text>
+      </g>
+      <g transform="translate(768)">
+        <rect width="180" height="96" rx="14" fill="#081827" stroke="#3c7290" stroke-opacity="0.55"/>
+        <text x="16" y="29" fill="#8fcbd5" font-size="14">ORCID</text>
+        <text x="16" y="58" fill="#f1fbff" font-size="16" font-weight="700">0000-0002-</text>
+        <text x="16" y="79" fill="#f1fbff" font-size="16" font-weight="700">8941-444X</text>
+      </g>
+      <g transform="translate(960)">
+        <rect width="184" height="96" rx="14" fill="#081827" stroke="#3c7290" stroke-opacity="0.55"/>
+        <text x="16" y="29" fill="#8fcbd5" font-size="14">Research themes</text>
+        <text x="16" y="56" fill="#f1fbff" font-size="15" font-weight="700">Galaxy · Genomics</text>
+        <text x="16" y="80" fill="#59e4b6" font-size="14">Open science · D3.js</text>
+      </g>
+    </g>
+  </g>
+</svg>
