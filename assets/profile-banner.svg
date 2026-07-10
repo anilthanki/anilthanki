@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Anil Thanki — Bioinformatics, open science and data visualisation</title>
+  <desc id="desc">A dark blue and teal profile banner with a stylised DNA helix and data network.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="0.55" stop-color="#0b2940"/>
+      <stop offset="1" stop-color="#0b4b50"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#62d9ff"/>
+      <stop offset="1" stop-color="#73f2c6"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9dd9e8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="45" r="190" fill="#24c7b1" opacity="0.08"/>
+  <circle cx="1130" cy="280" r="230" fill="#3aa6ff" opacity="0.07"/>
+
+  <g transform="translate(70 42)" fill="none" stroke-linecap="round">
+    <path d="M20 12 C175 65, 5 170, 170 230" stroke="#62d9ff" stroke-width="5" filter="url(#glow)"/>
+    <path d="M170 12 C15 65, 185 170, 20 230" stroke="#73f2c6" stroke-width="5" filter="url(#glow)"/>
+    <g stroke="#b9edf1" stroke-width="2.5" opacity="0.8">
+      <path d="M46 24L144 24"/><path d="M73 48L117 48"/><path d="M54 76L136 76"/>
+      <path d="M28 106L162 106"/><path d="M32 136L158 136"/><path d="M57 166L133 166"/>
+      <path d="M72 194L118 194"/><path d="M45 220L145 220"/>
+    </g>
+    <g fill="#d7fbff" stroke="none">
+      <circle cx="46" cy="24" r="4"/><circle cx="144" cy="24" r="4"/>
+      <circle cx="28" cy="106" r="4"/><circle cx="162" cy="106" r="4"/>
+      <circle cx="57" cy="166" r="4"/><circle cx="133" cy="166" r="4"/>
+      <circle cx="45" cy="220" r="4"/><circle cx="145" cy="220" r="4"/>
+    </g>
+  </g>
+
+  <g transform="translate(930 78)" stroke="#aeeff2" stroke-opacity="0.55" stroke-width="2">
+    <path d="M10 125L75 50L145 85L205 18M75 50L115 155L190 135M145 85L115 155M145 85L190 135" fill="none"/>
+    <g fill="#73f2c6" stroke="none" filter="url(#glow)">
+      <circle cx="10" cy="125" r="6"/><circle cx="75" cy="50" r="8"/><circle cx="145" cy="85" r="6"/>
+      <circle cx="205" cy="18" r="7"/><circle cx="115" cy="155" r="7"/><circle cx="190" cy="135" r="6"/>
+    </g>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="320" y="105" fill="#f4fbff" font-size="54" font-weight="700" letter-spacing="0.5">Anil Thanki</text>
+    <rect x="321" y="126" width="430" height="4" rx="2" fill="url(#accent)"/>
+    <text x="320" y="174" fill="#bfe9f2" font-size="26" font-weight="500">Senior Bioinformatician · EMBL-EBI</text>
+    <text x="320" y="220" fill="#8ccbd7" font-size="21">Open science · Reproducible workflows · Genomic visualisation</text>
+    <g transform="translate(320 249)" font-size="15" font-weight="600">
+      <rect width="132" height="34" rx="17" fill="#123f55" stroke="#62d9ff" stroke-opacity="0.65"/>
+      <text x="66" y="22" text-anchor="middle" fill="#c8f4ff">BIOINFORMATICS</text>
+      <rect x="144" width="118" height="34" rx="17" fill="#123f55" stroke="#73f2c6" stroke-opacity="0.65"/>
+      <text x="203" y="22" text-anchor="middle" fill="#d4fff0">OPEN SOURCE</text>
+      <rect x="274" width="118" height="34" rx="17" fill="#123f55" stroke="#62d9ff" stroke-opacity="0.65"/>
+      <text x="333" y="22" text-anchor="middle" fill="#c8f4ff">DATA + CODE</text>
+    </g>
+  </g>
+</svg>
