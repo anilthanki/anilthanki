@@ -1,32 +1,46 @@
-<table><tr><td width="58%" valign="top">
-
-# Hi, I'm Anil Thanki 👋
-
-### Senior Bioinformatician at EMBL-EBI
-
-Building open-source tools, reproducible workflows, and interactive visualisations for genomics and large-scale sequencing data.
-
-[Website](https://anilthanki.github.io/) · [GitHub](https://github.com/anilthanki) · [LinkedIn](https://www.linkedin.com/in/anilthanki/) · [ORCID](https://orcid.org/0000-0002-8941-444X) · [Google Scholar](https://scholar.google.com/citations?user=_dyCbwsAAAAJ)
-
-</td><td width="42%" valign="top">
-
-<img src="./assets/research-quote.svg" width="100%" alt="Research statement with DNA helix and network graph" />
-
-</td></tr></table>
+<table>
+<tr>
+<td width="58%" valign="middle">
+<table>
+<tr>
+<td width="150" valign="middle">
+<img src="https://avatars.githubusercontent.com/u/3940626?v=4" width="130" alt="Anil Thanki" />
+</td>
+<td valign="middle">
+<h1>Anil Thanki</h1>
+<h3>Senior Bioinformatician @ EMBL-EBI</h3>
+<p><em>Building open-source tools for genomics, reproducible research, and scientific data visualisation.</em></p>
+</td>
+</tr>
+</table>
+<p>
+<a href="https://anilthanki.github.io/"><img src="https://img.shields.io/badge/Website-0B4B50?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/anilthanki"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/anilthanki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://orcid.org/0000-0002-8941-444X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://scholar.google.com/citations?user=_dyCbwsAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+</p>
+</td>
+<td width="42%" valign="middle">
+<img src="./assets/research-quote.svg" width="100%" alt="Turning biological data into knowledge through open-source software and reproducible research" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilthanki&theme=github_dark" width="100%" alt="GitHub profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilthanki&theme=github_dark" width="100%" alt="GitHub profile overview" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilthanki&theme=github_dark&exclude=HTML,CSS" width="32%" alt="Languages by repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anilthanki&theme=github_dark&exclude=HTML,CSS" width="32%" alt="Languages by commits" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilthanki&theme=github_dark&utcOffset=1" width="32%" alt="Productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilthanki&theme=github_dark&exclude=HTML,CSS" width="24%" alt="Languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anilthanki&theme=github_dark&exclude=HTML,CSS" width="24%" alt="Languages by commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anilthanki&theme=github_dark" width="24%" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilthanki&theme=github_dark&utcOffset=1" width="24%" alt="Productive time" />
 </p>
 
-| Research profile | Focus | Identity |
-|:---:|:---:|:---:|
-| [Google Scholar](https://scholar.google.com/citations?user=_dyCbwsAAAAJ) | Publications and citations | [ORCID 0000-0002-8941-444X](https://orcid.org/0000-0002-8941-444X) |
+<p align="center">
+<a href="https://scholar.google.com/citations?user=_dyCbwsAAAAJ"><img src="./assets/scholar-snapshot.svg" width="100%" alt="Google Scholar snapshot" /></a>
+</p>
 
 ## 👋 About me
 
