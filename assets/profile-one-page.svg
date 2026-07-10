@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Anil Thanki — Senior Bioinformatician at EMBL-EBI</title>
+  <desc id="desc">A cohesive dark one-page GitHub profile introducing Anil Thanki, his research interests, background, and professional profiles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06101d"/>
+      <stop offset="0.48" stop-color="#091a2c"/>
+      <stop offset="1" stop-color="#08343a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36c7ff"/>
+      <stop offset="1" stop-color="#59e2b5"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#43d5c0" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#43d5c0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#9cdae5" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+      .muted { fill: #9cc5cf; }
+      .body { fill: #d5e8ed; }
+      .fine { fill: #7faab5; }
+      .label { fill: #65e0c1; font-weight: 700; letter-spacing: 1.8px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="900" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="900" rx="28" fill="url(#grid)"/>
+  <circle cx="1050" cy="105" r="280" fill="url(#halo)"/>
+  <circle cx="100" cy="820" r="250" fill="#238cc1" opacity="0.045"/>
+  <rect x="22" y="22" width="1156" height="856" rx="22" fill="none" stroke="#79d9d0" stroke-opacity="0.18"/>
+
+  <!-- Continuous decorative network -->
+  <g opacity="0.42" stroke="#82ddd7" stroke-width="1.5">
+    <path d="M760 42L835 92L902 48L973 108L1050 56L1142 124M835 92L850 176L948 184L1030 142L1115 210M902 48L948 184M973 108L948 184M1050 56L1030 142M1030 142L1115 210M850 176L782 252L900 274L1002 238L1135 306" fill="none"/>
+    <g fill="#65e0c1" stroke="none" filter="url(#glow)">
+      <circle cx="760" cy="42" r="4"/><circle cx="835" cy="92" r="7"/><circle cx="902" cy="48" r="5"/>
+      <circle cx="973" cy="108" r="6"/><circle cx="1050" cy="56" r="5"/><circle cx="1142" cy="124" r="6"/>
+      <circle cx="850" cy="176" r="5"/><circle cx="948" cy="184" r="7"/><circle cx="1030" cy="142" r="5"/>
+      <circle cx="1115" cy="210" r="6"/><circle cx="782" cy="252" r="4"/><circle cx="900" cy="274" r="6"/>
+      <circle cx="1002" cy="238" r="5"/><circle cx="1135" cy="306" r="5"/>
+    </g>
+  </g>
+
+  <!-- DNA helix -->
+  <g transform="translate(1015 350)" fill="none" stroke-linecap="round" opacity="0.22">
+    <path d="M0 0C135 72,-28 180,104 292" stroke="#36c7ff" stroke-width="5"/>
+    <path d="M104 0C-30 72,134 180,0 292" stroke="#59e2b5" stroke-width="5"/>
+    <g stroke="#d4ffff" stroke-width="2">
+      <path d="M24 18L80 18"/><path d="M44 50L60 50"/><path d="M20 83L84 83"/>
+      <path d="M5 117L99 117"/><path d="M12 151L92 151"/><path d="M31 186L73 186"/>
+      <path d="M44 221L60 221"/><path d="M19 255L85 255"/><path d="M3 284L101 284"/>
+    </g>
+  </g>
+
+  <!-- Identity -->
+  <g class="sans">
+    <circle cx="118" cy="126" r="70" fill="#0b2434" stroke="url(#accent)" stroke-width="3"/>
+    <circle cx="118" cy="126" r="57" fill="#0c1a28" stroke="#9be5df" stroke-opacity="0.18"/>
+    <text x="118" y="143" text-anchor="middle" font-size="47" font-weight="750" fill="#effdff">AT</text>
+
+    <text x="218" y="105" font-size="57" font-weight="760" fill="#f1fbff">Anil Thanki</text>
+    <rect x="220" y="124" width="420" height="4" rx="2" fill="url(#accent)"/>
+    <text x="218" y="170" font-size="25" font-weight="650" fill="#67dfc3">Senior Bioinformatician</text>
+    <text x="465" y="170" font-size="25" fill="#c9dde3"> @ EMBL-EBI</text>
+    <text x="218" y="213" font-size="20" font-style="italic" class="muted">Open science · Reproducible workflows · Genomic visualisation</text>
+
+    <g font-size="14" font-weight="650">
+      <rect x="218" y="240" width="112" height="32" rx="16" fill="#0f3041" stroke="#53c9df" stroke-opacity="0.42"/>
+      <text x="274" y="261" text-anchor="middle" fill="#bcefff">WEBSITE</text>
+      <rect x="340" y="240" width="108" height="32" rx="16" fill="#0f3041" stroke="#53c9df" stroke-opacity="0.42"/>
+      <text x="394" y="261" text-anchor="middle" fill="#bcefff">GITHUB</text>
+      <rect x="458" y="240" width="120" height="32" rx="16" fill="#0f3041" stroke="#5ce0ba" stroke-opacity="0.42"/>
+      <text x="518" y="261" text-anchor="middle" fill="#cffff0">SCHOLAR</text>
+      <rect x="588" y="240" width="96" height="32" rx="16" fill="#0f3041" stroke="#5ce0ba" stroke-opacity="0.42"/>
+      <text x="636" y="261" text-anchor="middle" fill="#cffff0">ORCID</text>
+    </g>
+  </g>
+
+  <!-- Integrated quote -->
+  <g class="sans">
+    <text x="785" y="126" font-size="59" font-weight="700" fill="#59e2b5">“</text>
+    <text x="835" y="131" font-size="23" font-weight="600" fill="#eefbfe">
+      <tspan x="835" dy="0">Turning biological data into knowledge</tspan>
+      <tspan x="835" dy="38">through open-source software and</tspan>
+      <tspan x="835" dy="38">reproducible research.</tspan>
+    </text>
+  </g>
+
+  <!-- Flow divider -->
+  <path d="M72 330H1128" stroke="#74cbd2" stroke-opacity="0.18"/>
+  <circle cx="72" cy="330" r="4" fill="#36c7ff"/>
+  <circle cx="1128" cy="330" r="4" fill="#59e2b5"/>
+
+  <!-- Research focus in one continuous row -->
+  <g class="sans">
+    <text x="72" y="374" font-size="13" class="label">RESEARCH FOCUS</text>
+    <text x="72" y="419" font-size="21" font-weight="650" fill="#e6f6f9">Bioinformatics &amp; genomics</text>
+    <text x="340" y="419" font-size="21" font-weight="650" fill="#e6f6f9">Reproducible research</text>
+    <text x="620" y="419" font-size="21" font-weight="650" fill="#e6f6f9">Scientific visualisation</text>
+    <text x="904" y="419" font-size="21" font-weight="650" fill="#e6f6f9">Research software</text>
+    <text x="72" y="447" font-size="15" class="fine">Sequencing and expression data</text>
+    <text x="340" y="447" font-size="15" class="fine">Galaxy, automation, containers</text>
+    <text x="620" y="447" font-size="15" class="fine">Interactive tools with D3.js</text>
+    <text x="904" y="447" font-size="15" class="fine">Maintainable community tools</text>
+  </g>
+
+  <path d="M72 486H1128" stroke="#74cbd2" stroke-opacity="0.12"/>
+
+  <!-- About content -->
+  <g class="sans">
+    <text x="72" y="531" font-size="13" class="label">ABOUT</text>
+    <text x="72" y="573" font-size="19" class="body">
+      <tspan x="72" dy="0">I’m a Senior Bioinformatician at EMBL-EBI, building open and reproducible tools,</tspan>
+      <tspan x="72" dy="31">workflows, and visualisations for large-scale sequencing data.</tspan>
+    </text>
+    <text x="72" y="658" font-size="17" class="muted">
+      <tspan x="72" dy="0">Previously, I worked as a Postdoctoral Research Scientist and Scientific Programmer at the</tspan>
+      <tspan x="72" dy="29">Earlham Institute. I hold a PhD in Bioinformatics from the University of East Anglia,</tspan>
+      <tspan x="72" dy="29">an MSc from the University of Leicester, and a BSc from Saurashtra University.</tspan>
+    </text>
+  </g>
+
+  <!-- Research profile woven into the same page -->
+  <g class="sans">
+    <text x="790" y="531" font-size="13" class="label">RESEARCH PROFILE</text>
+    <text x="790" y="574" font-size="18" font-weight="650" fill="#edfafd">Google Scholar</text>
+    <text x="790" y="598" font-size="15" class="fine">Publications and citation record</text>
+    <line x1="790" y1="619" x2="1118" y2="619" stroke="#8ddbd5" stroke-opacity="0.14"/>
+    <text x="790" y="654" font-size="18" font-weight="650" fill="#edfafd">ORCID</text>
+    <text x="790" y="678" font-size="15" class="fine">0000-0002-8941-444X</text>
+    <line x1="790" y1="699" x2="1118" y2="699" stroke="#8ddbd5" stroke-opacity="0.14"/>
+    <text x="790" y="734" font-size="18" font-weight="650" fill="#edfafd">Selected venues</text>
+    <text x="790" y="758" font-size="15" class="fine">Nucleic Acids Research · GigaScience</text>
+    <text x="790" y="782" font-size="15" class="fine">Bioinformatics · eLife · F1000Research</text>
+  </g>
+
+  <!-- Closing line -->
+  <path d="M72 824H1128" stroke="#74cbd2" stroke-opacity="0.15"/>
+  <g class="sans">
+    <text x="72" y="856" font-size="15" class="fine">Open science works best when tools, data, and knowledge are built to be shared.</text>
+    <text x="1128" y="856" text-anchor="end" font-size="14" fill="#65e0c1">anilthanki.github.io</text>
+  </g>
+</svg>
