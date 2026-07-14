@@ -69,7 +69,7 @@
     <text x="218" y="105" font-size="57" font-weight="760" fill="#f1fbff">Anil Thanki</text>
     <rect x="220" y="124" width="420" height="4" rx="2" fill="url(#accent)"/>
     <text x="218" y="170" font-size="25" font-weight="650" fill="#67dfc3">Senior Bioinformatician</text>
-    <text x="495" y="170" font-size="25" fill="#c9dde3"> @ EMBL-EBI</text>
+    <text x="490" y="170" font-size="25" fill="#c9dde3"> @ EMBL-EBI</text>
     <text x="218" y="213" font-size="20" font-style="italic" class="muted">Open science · Reproducible workflows · Genomic visualisation</text>
 
     <g font-size="14" font-weight="650">
@@ -86,11 +86,11 @@
 
   <!-- Integrated quote -->
   <g class="sans">
-    <text x="785" y="126" font-size="59" font-weight="700" fill="#59e2b5">“</text>
-    <text x="835" y="131" font-size="23" font-weight="600" fill="#eefbfe">
-      <tspan x="835" dy="0">Turning biological data into knowledge</tspan>
-      <tspan x="835" dy="38">through open-source software and</tspan>
-      <tspan x="835" dy="38">reproducible research.</tspan>
+    <text x="780" y="126" font-size="59" font-weight="700" fill="#59e2b5">“</text>
+    <text x="820" y="131" font-size="23" font-weight="600" fill="#eefbfe">
+      <tspan x="780" dy="0">Turning biological data into knowledge</tspan>
+      <tspan x="790" dy="38">through open-source software and</tspan>
+      <tspan x="800" dy="38">reproducible research.</tspan>
     </text>
   </g>
 
